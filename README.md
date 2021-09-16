@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amenohix
 - 👀 I’m interested in Music, Electronics, & Fashion
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift & Wordpress
 - 💞️ I’m looking to collaborate on living life to the fullest :)
 - 📫 How to reach me ... deploying the rainy symbol
 
